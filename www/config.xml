@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.pyxru.flaptower" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Flappy Tower</name>
+    <description>
+        Tap for creating tower
+    </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        PhoneGap Team
+    </author>
+    <platform name="ios" />
+    <platform name="android" />
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
