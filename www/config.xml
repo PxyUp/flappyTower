@@ -2,10 +2,10 @@
 <widget id="com.pyxru.flaptower" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Flappy Tower</name>
     <description>
-        Tap for creating tower
+        Creating the biggest tower
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author email="tduble94@gmail.com">
+        PyxRu
     </author>
     <platform name="ios" />
     <platform name="android" />
